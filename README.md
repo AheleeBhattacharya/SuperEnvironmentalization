@@ -11,5 +11,5 @@ SuperEnvironmentalization is an interactive website which makes users aware abou
  ## Website : https://aheleebhattacharya.github.io/SuperEnvironmentalization/
   
 ## Our Team:
-Ahelee Bhattacharya, UnderGraduate Junior Year,  India
+Ahelee Bhattacharya, UnderGraduate Junior Year,  India  &  
 Sandra Zelen, High School Junior, Serbia
