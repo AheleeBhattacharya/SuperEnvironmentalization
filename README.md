@@ -9,7 +9,7 @@ SuperEnvironmentalization is an interactive website which makes users aware abou
 [Inspired from founder’s quote of Superposition-”For our attendees, I aspire for them to not fear failure and instead embrace and learn from the past.”]
  
  ## Website : https://aheleebhattacharya.github.io/SuperEnvironmentalization/
-  https://quizzical-williams-152e2a.netlify.app/ 
+  
 ## Our Team:
 Ahelee Bhattacharya, UnderGraduate Junior Year,  India
 Sandra Zelen, High School Junior, Serbia
